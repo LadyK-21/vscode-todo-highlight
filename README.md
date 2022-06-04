@@ -105,7 +105,7 @@ an example of customizing configuration:
         "**/.next/**"
     ],
     "todohighlight.maxFilesForSearch": 5120,
-    "todohighlight.toggleURI": false
+    "todohighlight.toggleURI": true
 }
 ```
 
