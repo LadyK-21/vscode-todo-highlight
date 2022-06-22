@@ -214,7 +214,7 @@
     }
   },
   "devDependencies": {
-    "@types/mocha": "^2.2.32",
+    "@types/mocha": "^9.1.1",
     "@types/node": "^6.0.40",
     "@vscode/test-web": "0.0.15",
     "eslint": "^3.6.0",
